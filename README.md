@@ -103,5 +103,5 @@ python-dotenv   # optional
 
 ---
 
-Feel free to contribute :))
+Feel free to contribute :)) <br>
 -Disha Kaushik
